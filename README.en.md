@@ -1,4 +1,4 @@
-# ERP for an agribusiness
+# Gestão Agro
 
 [Versão em português](README.md)
 

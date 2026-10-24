@@ -1,4 +1,4 @@
-# ERP para agroindústria
+# Gestão Agro
 
 [English version](README.en.md)
 
